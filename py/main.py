@@ -2,8 +2,8 @@ import re
 import argparse
 import sys
 
-file_path_seq = "/data/seq.log"
-file_path_prover = "/data/prover.log"
+file_path_seq = "/data/scf/zkdex-wasm-poc/core/bin/okdexd/dev/seq.log"
+file_path_prover = "/data/scf/zkdex-wasm-poc/core/bin/okdexd/dev/prover.log"
 
 seq_map = {}
 prover_map = {}
